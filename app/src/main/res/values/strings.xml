@@ -1,0 +1,42 @@
+<resources>
+
+    <style name="Theme.BhagwatGeeta.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.BhagwatGeeta.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <string name="app_name">Bhagwat Geeta</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_home">Home</string>
+    <string name="nav_header_title">भगवत गीत</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="txt_logout_sure">Are you sure you want to EXIT?</string>
+    <string name="menu_more_application">More Application</string>
+    <string name="txt_logout_succ">EXIT Successfully</string>
+    <string name="menu_rating">Rating</string>
+    <string name="menu_share">Share</string>
+
+    <string name="menu_Privacy_policy">Privacy Policy</string>
+
+    <string name="menu_exit">Exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">More Application</string>
+
+    <string name="app0">कीमती शब्द Daily Motivation Quotes in Hindi</string>
+    <string name="link0">https://play.google.com/store/apps/details?id=com.quotesinhindi.motivationalquotesinhindi</string>
+    <string name="id0">com.quotesinhindi.motivationalquotesinhindi</string>
+
+    <string name="app2">Hindi Status Daily</string>
+    <string name="link2">https://play.google.com/store/apps/details?id=com.hindistatus.quotes</string>
+    <string name="id2">com.hindistatus.quotes</string>
+
+    <string name="app3">GOD Wallpapers</string>
+    <string name="link3">https://play.google.com/store/apps/details?id=com.hindu.godwallpapers</string>
+    <string name="id3">com.hindu.godwallpapers</string>
+
+    <string name="txt_download_now">Download Now</string>
+
+    <string name="txt_share_app">I found a great app for Quotes and Motivation Check now: https://play.google.com/store/apps/details?id=com.quotesinhindi.motivationalquotesinhindi</string>
+</resources>

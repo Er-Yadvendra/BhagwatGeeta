@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/menu_home"
+        />
+<!--    <item-->
+<!--        android:id="@+id/nav_more_application"-->
+<!--        android:icon="@drawable/ic_baseline_more_24"-->
+<!--        android:title="@string/menu_more_application" />-->
+    <item
+        android:id="@+id/nav_rating"
+        android:icon="@drawable/ic_baseline_star_half_24"
+        android:title="@string/menu_rating" />
+    <View
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:background="?attr/colorPrimary"/>
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="@string/menu_share" />
+    <item
+        android:id="@+id/nav_privacy"
+        android:icon="@drawable/ic_baseline_security_24"
+        android:title="@string/menu_Privacy_policy" />
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="@string/menu_exit" />
+
+</menu>
